@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Banner with cellular automata](screenshot_2343-21-10-2023.png?raw=true)
 <!--
 **aapo-kossi/aapo-kossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
