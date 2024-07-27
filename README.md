@@ -1,6 +1,16 @@
 ![Banner with cellular automata](screenshot_2343-21-10-2023.png?raw=true)
+
+Hi, I'm Aapo and this is my place for personal programming projects.
+Some of my favourite things in programming are premature optimization and figuring out the most obscure interfaces of a python library.
+
+Topics I've dabbled on that can be found here:
+- Machine learning, specifically model free RL
+- GPU accelerated computing (JAX, graphics shaders)
+- Data-analysis in experimental physics
+
+![ASCII shader Nova Drift gameplay](novadrift-ascii-screenshot-1.png?raw=true)
 ![cellular automata full grid](gol_16kx16k_final.png?raw=true)
-<!--
+<!--<!--
 **aapo-kossi/aapo-kossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
